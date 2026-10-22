@@ -1,3 +1,5 @@
+
+
 --Stvaranje baze podataka 'DataWarehouse'--
 USE master;
 CREATE DATABASE DataWarehouse
