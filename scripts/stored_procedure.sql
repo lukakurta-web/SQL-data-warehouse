@@ -1,4 +1,4 @@
---Stored Procedure za proces unošenja podataka u tablicu--
+---Stored Procedure za proces unošenja podataka u tablicu---
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
 BEGIN
 	DECLARE @start_time DATETIME, @end_time DATETIME, @batch_start_time DATETIME, @batch_end_time DATETIME; --Definiranje varijabli za mjerenje brzine izvođenja koda--
