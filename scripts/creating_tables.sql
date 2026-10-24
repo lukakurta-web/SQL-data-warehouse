@@ -61,3 +61,5 @@ CREATE TABLE bronze.erp_px_cat_g1v2 (
 	subcat      NVARCHAR(50),
 	maintenance NVARCHAR(50)
 );
+
+--Isti kod primijeniti kod kreiranja tablice za Silver Layer, samo promijeniti oznaku sheme u Silver--
